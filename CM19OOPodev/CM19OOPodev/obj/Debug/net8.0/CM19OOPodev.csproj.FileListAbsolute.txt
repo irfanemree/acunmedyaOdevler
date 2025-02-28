@@ -1,0 +1,14 @@
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\bin\Debug\net8.0\CM19OOPodev.exe
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\bin\Debug\net8.0\CM19OOPodev.deps.json
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\bin\Debug\net8.0\CM19OOPodev.runtimeconfig.json
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\bin\Debug\net8.0\CM19OOPodev.dll
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\bin\Debug\net8.0\CM19OOPodev.pdb
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.AssemblyInfoInputs.cache
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.AssemblyInfo.cs
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.csproj.CoreCompileInputs.cache
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.dll
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\refint\CM19OOPodev.dll
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.pdb
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\CM19OOPodev.genruntimeconfig.cache
+C:\Users\Victus Emre\Documents\acunmedya\CM19OOPodev\CM19OOPodev\CM19OOPodev\obj\Debug\net8.0\ref\CM19OOPodev.dll
