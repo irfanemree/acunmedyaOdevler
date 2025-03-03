@@ -1,0 +1,35 @@
+1. Abstract Class (Soyut Sınıf) Nedir?
+
+Abstract class, nesne oluşturulamaz  ve genellikle kalıtım  için kullanılan bir sınıf türüdür. Soyut sınıflar, temel sınıf olarak kullanılır ve alt sınıflara ortak özellikleri ve metotları sağlar.
+
+2. Abstraction (Soyutlama) Nedir?
+
+Abstraction (Soyutlama), gereksiz detayları gizleyerek yalnızca önemli olan kısımları kullanıcıya sunma işlemidir.
+Örneğin, bir araba düşünelim:
+	• Sürücü motorun nasıl çalıştığını bilmek zorunda değildir, sadece direksiyonu çevirerek veya gaz pedalına basarak aracı kullanır.
+	• Burada detaylar (pistonlar, yakıt enjeksiyonu, motorun çalışma prensibi) gizlenmiştir ve sürücüye sadece gerekli kontroller sunulmuştur.
+Bu, abstraction kavramının gerçek hayattaki bir örneğidir.
+
+Ne Zaman Kullanılır?
+✅ Kullanıcıyı gereksiz teknik detaylardan korumak için
+✅ Kod tekrarını önlemek ve ortak bir yapı oluşturmak için
+✅ Alt sınıfların belirli metotları kendi özel mantıklarıyla uygulamalarını sağlamak için
+
+
+3. Polymorphism (Çok Biçimlilik) Nedir?
+
+Polymorphism (Çok Biçimlilik), aynı isimdeki metotların veya operatörlerin farklı şekillerde çalışmasını sağlayan bir nesne yönelimli programlama (OOP) özelliğidir.
+Bunun sayesinde:
+	• Aynı isimde metotlar farklı parametreler ile çalışabilir (Overloading - Aşırı Yükleme).
+	• Bir sınıftan türeyen alt sınıflar, temel sınıftaki metotları kendilerine uygun şekilde değiştirebilir (Overriding - Ezme).
+
+	Polymorphism, aynı isimdeki metotların farklı şekillerde çalışmasını sağlar.
+	Method Overloading (Aşırı Yükleme): Aynı metot ismi, farklı parametreler ile çalışır.
+	Method Overriding (Ezme): Temel sınıftaki metot, alt sınıflarda farklı şekilde uygulanır.
+	Polymorphism, OOP’nin temel prensiplerinden biridir ve esneklik sağlar.
+
+
+
+
+
+
