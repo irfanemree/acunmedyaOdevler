@@ -1,0 +1,15 @@
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\bin\Debug\net8.0\CM19OOP_Sirket.exe
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\bin\Debug\net8.0\CM19OOP_Sirket.deps.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\bin\Debug\net8.0\CM19OOP_Sirket.runtimeconfig.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\bin\Debug\net8.0\CM19OOP_Sirket.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\bin\Debug\net8.0\CM19OOP_Sirket.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.AssemblyInfoInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.AssemblyInfo.cs
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.csproj.CoreCompileInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.sourcelink.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\refint\CM19OOP_Sirket.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\CM19OOP_Sirket.genruntimeconfig.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Sirket\CM19OOP_Sirket\obj\Debug\net8.0\ref\CM19OOP_Sirket.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev.csproj",
-      "projectName": "CM19OOPodev",
-      "projectPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev.csproj",
+      "projectUniqueName": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\CM19OOP_Sirket.csproj",
+      "projectName": "CM19OOP_Sirket",
+      "projectPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\CM19OOP_Sirket.csproj",
       "packagesPath": "C:\\Users\\Victus Emre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOPodev\\CM19OOPodev\\obj\\",
+      "outputPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
