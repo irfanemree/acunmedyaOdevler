@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CM19OOPodev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6270792441838c854943dba4a6f2b11e2f0cd9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CM19OOPodev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CM19OOPodev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
