@@ -16,11 +16,11 @@ namespace CM19OOPodev.Classes
         {
             Console.WriteLine("Arabanın Markası: " + marka + " , " + "Vites: " + vites + " , " + "Kasa Tipi: " + kasaTipi);
         }
-        public void ekranaYazdir(string markasi , string vitesi , string kasa)
+        public void ekranaYazdir(string markasi, string vitesi, string kasa)
         {
             Console.WriteLine("Arabanın Markası: " + markasi + " , " + "Vites: " + vitesi + " , " + "Kasa Tipi: " + kasa);
         }
     }
 
-    
+
 }

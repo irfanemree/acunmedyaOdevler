@@ -1,25 +1,36 @@
 ﻿using CM19OOPodev.Classes;
 
-Araba a = new Araba();
+BMW a = new BMW();
 a.marka = "BMW";
+/*a.marka = "BMW";
 a.vites = "Manuel";
-a.kasaTipi = "Sedan";
-a.ekranaYazdir();
+a.kasaTipi = "Sedan";*/
+a.denizdeYuzer(a.marka);
+a.havadaUcar(a.marka);
+a.hızlıGider(a.marka);
 
-Araba m = new Araba();
-m.ekranaYazdir("Mercedes" , "Otomatik" , "Station Wagon");
 
-Araba au = new Araba();
-au.ekranaYazdir("Audi", "Otomatik", "Hatchback");
+/*a.ekranaYazdir();*/
+
+Mercedes m = new Mercedes();
+m.marka = "Mercedes";
+m.havadaUcar(m.marka);
+m.denizdeYuzer(m.marka);
+/*m.ekranaYazdir("Mercedes" , "Otomatik" , "Station Wagon");*/
+
+Porsche au = new Porsche();
+au.marka = "Porsche";
+au.havadaUcar(au.marka);
+/*au.ekranaYazdir("Audi", "Otomatik", "Hatchback");*/
 
 Araba t = new Araba();
-t.ekranaYazdir("Toyota", "Manuel", "Sedan");
+/*t.ekranaYazdir("Toyota", "Manuel", "Sedan");*/
 
 Araba tog = new Araba();
-tog.ekranaYazdir("TOGG", "Otomatik", "SUV");
+/*tog.ekranaYazdir("TOGG", "Otomatik", "SUV");*/
 
 Araba p = new Araba();
-p.ekranaYazdir("Porsche", "Otomatik", "SUV");
+/*p.ekranaYazdir("Porsche", "Otomatik", "SUV");*/
 
 
 
