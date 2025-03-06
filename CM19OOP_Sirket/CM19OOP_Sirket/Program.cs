@@ -7,4 +7,4 @@ Stajyer st = new Stajyer();
 
 double toplamMaas = 0;
 toplamMaas = gm.maasinizNedir() + m.maasinizNedir() + pr.maasinizNedir() + st.maasinizNedir();
-Console.WriteLine("Toplam Maaş : " + toplamMaas);
+Console.WriteLine("Toplam Maaş : " + toplamMaas); 
