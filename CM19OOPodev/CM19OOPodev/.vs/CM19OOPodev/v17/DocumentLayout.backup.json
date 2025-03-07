@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\interfaces\\ih\u0131zl\u0131gider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\interfaces\\ih\u0131zl\u0131gider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\interfaces\\idenizdeyuzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\interfaces\\idenizdeyuzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\interfaces\\ihavadaucar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\interfaces\\ihavadaucar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\audi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|c:\\users\\victus emre\\documents\\acunmedya\\cm19oopodev\\cm19oopodev\\cm19oopodev\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA9768D-54BF-439A-A0D1-40F95502A3FD}|CM19OOPodev\\CM19OOPodev.csproj|solutionrelative:cm19oopodev\\classes\\toyota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Program.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Program.cs",
+              "RelativeToolTip": "CM19OOPodev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:34:28.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHavadaUcar.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IHavadaUcar.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Interfaces\\IHavadaUcar.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IHavadaUcar.cs",
+              "RelativeToolTip": "CM19OOPodev\\Interfaces\\IHavadaUcar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:29:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDenizdeYuzer.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IDenizdeYuzer.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Interfaces\\IDenizdeYuzer.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IDenizdeYuzer.cs",
+              "RelativeToolTip": "CM19OOPodev\\Interfaces\\IDenizdeYuzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:29:10.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IH\u0131zl\u0131Gider.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IH\u0131zl\u0131Gider.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Interfaces\\IH\u0131zl\u0131Gider.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Interfaces\\IH\u0131zl\u0131Gider.cs",
+              "RelativeToolTip": "CM19OOPodev\\Interfaces\\IH\u0131zl\u0131Gider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T22:28:58.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\BMW.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\BMW.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\BMW.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\BMW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:23:11.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:23:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Porsche.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:23:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Araba.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:20:51.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Audi.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Audi.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\Audi.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Audi.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\Audi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:24:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TOGG.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\TOGG.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\TOGG.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\TOGG.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\TOGG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:23:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Toyota.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Toyota.cs",
+              "RelativeDocumentMoniker": "CM19OOPodev\\Classes\\Toyota.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOPodev\\CM19OOPodev\\CM19OOPodev\\Classes\\Toyota.cs",
+              "RelativeToolTip": "CM19OOPodev\\Classes\\Toyota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:24:12.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
