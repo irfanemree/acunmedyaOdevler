@@ -1,0 +1,6 @@
+İçerisinde belli sayıda ve aynı türde veri olan yapılara dizi denir. Siz eğer 10 tane integer değeri bir arada tutmak istiyorsanız 10 farklı değişken tanımlamak yerine bir dizi oluşturup kullanabilirsiniz.
+
+Dizilerde primitive veya referans tip veri türlerini barındırabilir. Tek şart bir dizi aynı türde elemanları içermelidir.
+
+Dizi türündeki referanslar dizi nesnelerine bağlanır. (Nesne ?). Dizi referans değerleri stack yapısında, dizi nesneleri ise heap alanında tutulur.
+
