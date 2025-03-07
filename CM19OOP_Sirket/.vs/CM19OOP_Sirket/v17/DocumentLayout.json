@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\",
+  "WorkspaceRootPath": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\classes\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\classes\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Classes\\Calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\GenelMudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Classes\\GenelMudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Classes\\Stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Classes\\Programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_sirket\\cm19oop_sirket\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383C19E1-7EEA-4B6F-A1D5-8C7D58DB2A1B}|CM19OOP_Sirket\\CM19OOP_Sirket.csproj|solutionrelative:cm19oop_sirket\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CM19OOP_Sirket\\Classes\\Mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Program.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Program.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,37 +52,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Calisan.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Calisan.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Classes\\Calisan.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Calisan.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Calisan.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Classes\\Calisan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T23:20:03.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T23:20:03.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GenelMudur.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\GenelMudur.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Classes\\GenelMudur.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\GenelMudur.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\GenelMudur.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Classes\\GenelMudur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T23:20:12.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T23:20:12.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Stajyer.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Stajyer.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Classes\\Stajyer.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Stajyer.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Classes\\Stajyer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Programci.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Programci.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Programci.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Classes\\Programci.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Programci.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Programci.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Classes\\Programci.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Mudur.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Mudur.cs",
               "RelativeDocumentMoniker": "CM19OOP_Sirket\\Classes\\Mudur.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Mudur.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedya\\CM19OOP_Sirket\\CM19OOP_Sirket\\Classes\\Mudur.cs",
               "RelativeToolTip": "CM19OOP_Sirket\\Classes\\Mudur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
