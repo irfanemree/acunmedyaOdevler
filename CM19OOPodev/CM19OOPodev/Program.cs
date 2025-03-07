@@ -6,7 +6,7 @@ a.marka = "BMW";
 a.vites = "Manuel";
 a.kasaTipi = "Sedan";*/
 a.denizdeYuzer(a.marka);
-a.havadaUcar(a.marka);
+a.havadaUcar(a.marka); 
 a.hızlıGider(a.marka);
 
 
