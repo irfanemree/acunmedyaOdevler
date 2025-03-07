@@ -1,0 +1,15 @@
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\bin\Debug\net8.0\CM19OOP_Yakit.exe
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\bin\Debug\net8.0\CM19OOP_Yakit.deps.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\bin\Debug\net8.0\CM19OOP_Yakit.runtimeconfig.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\bin\Debug\net8.0\CM19OOP_Yakit.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\bin\Debug\net8.0\CM19OOP_Yakit.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.AssemblyInfoInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.AssemblyInfo.cs
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.csproj.CoreCompileInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.sourcelink.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\refint\CM19OOP_Yakit.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\CM19OOP_Yakit.genruntimeconfig.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Yakit\CM19OOP_Yakit\obj\Debug\net8.0\ref\CM19OOP_Yakit.dll
