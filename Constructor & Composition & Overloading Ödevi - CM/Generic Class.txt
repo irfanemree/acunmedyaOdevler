@@ -1,0 +1,51 @@
+1️⃣ Generic Yapıların Avantajları:
+
+C#’ta Generic yapılar, farklı türlerle çalışabilen esnek ve yeniden kullanılabilir kod yazmayı sağlar.
+
+✅ Tür Güvenliği (Type Safety);
+Generic yapılar, tip güvenliğini sağlar. Derleme zamanında tür kontrolü yapıldığı için çalışma zamanı hataları azalır.
+Örneğin, List<T> gibi koleksiyonlar yalnızca belirtilen türdeki verileri kabul eder.
+
+✅ Kod Tekrarını Azaltır;
+Aynı işlevi gören farklı türler için ayrı ayrı metot veya sınıf yazmak yerine, tek bir generic yapı kullanılabilir.
+
+✅ Performans Artışı (Boxing & Unboxing Engellenir);
+Generic yapılar, değer tiplerini kutulama (boxing) ve kutudan çıkarma (unboxing) işlemlerine maruz bırakmaz.
+
+✅ Esneklik ve Yeniden Kullanılabilirlik;
+Birden fazla farklı tür ile çalışan genel amaçlı sınıflar ve metotlar yazılabilir.
+
+
+
+2️⃣ Generic Sınıflar ve Metotlar ile Esnek Programlama
+
+📌 Generic Sınıflar
+Generic sınıflar, farklı türlerde veri saklamak ve işlem yapmak için kullanılır.
+Örneğin, bir "kutu" düşünelim. Bu kutuya sayı koyabiliriz, bir metin koyabiliriz veya bir nesne saklayabiliriz. Generic olmayan bir yapı kullanırsak, her tür için ayrı bir sınıf tanımlamak gerekir. 
+Ancak Generic sınıflar sayesinde, tek bir sınıfı farklı türlerle kullanabiliriz.
+
+📌 Generic Metotlar
+Bazı durumlarda, bir metodun farklı veri türleriyle çalışmasını isteriz. Örneğin, bir veriyi ekrana yazdıran bir metot yazalım. Generic kullanarak bu metodu herhangi bir veri türüyle çağırabiliriz.
+
+Sonuç olarak, Generic yapılar sayesinde daha esnek, yeniden kullanılabilir ve performanslı kodlar yazabiliriz. 🚀
+
+
+
+
+3️⃣ Boxing & Unboxing Nedir? Performansa Etkisi
+
+🟢 Boxing Nedir?
+📌 Değer türlerini (value type) referans türüne (object) dönüştürme işlemidir.
+📌 Heap’te yeni bir nesne oluşturulur ve performans maliyeti yüksektir.
+⛔ Heap’te gereksiz nesne oluşturulduğundan performansı düşürür.
+
+🟢 Unboxing Nedir?
+📌 Referans türündeki (object) değeri tekrar değer türüne (value type) dönüştürme işlemidir.
+⛔ Tip dönüşümü sırasında ek maliyet oluşur ve performansı düşürür.
+
+
+
+🎯 SONUÇ
+✅ Generic yapılar, esneklik, tür güvenliği ve performans avantajı sağlar.
+✅ Kod tekrarını önleyerek daha temiz ve modüler kod yazmayı mümkün kılar.
+✅ Boxing & Unboxing işlemlerini önleyerek gereksiz bellek kullanımını azaltır ve performansı artırır. 🚀

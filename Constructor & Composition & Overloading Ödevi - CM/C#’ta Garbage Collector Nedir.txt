@@ -1,0 +1,30 @@
+1-)Garbage Collector Nedir?
+
+Garbage Collector, otomatik bellek yönetim mekanizmasıdır. Kullanılmayan ve erişilemeyen nesneleri tespit edip temizleyerek belleği geri kazandırır.
+
+
+2-)Garbage Collector Nasıl Çalışır?
+
+a)Heap Üzerinde Çalışır;
+
+Stack bölgesi metod çağrıları ve yerel değişkenler için kullanılır.
+Heap bölgesi ise dinamik olarak oluşturulan nesneleri tutar. Garbage Collector, heap üzerindeki kullanılmayan nesneleri temizler.
+
+
+b)Kullanılmayan Nesneleri Temizler;
+
+Root referanslardan erişilemeyen nesneler çöp olarak kabul edilir.
+GC bu nesneleri bellekten temizler.
+
+
+c)Belleği Sıkıştırır;
+
+Garbage Collector, bellekteki boşlukları azaltmak için nesneleri taşır ve sıkıştırır.
+Bellek parçalanmasını (fragmentation) önler.
+
+
+3-)Garbage Collector'un Bellek Yönetimindeki Rolü
+✅ Manuel bellek yönetimine gerek kalmaz.
+✅ Bellek sızıntılarını (memory leak) önler.
+✅ Yönetilen kodu (Managed Code) daha güvenli hale getirir.
+✅ Bellek kullanımını optimize eder.
