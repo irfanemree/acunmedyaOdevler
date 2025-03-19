@@ -1,0 +1,15 @@
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.AssemblyInfoInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.AssemblyInfo.cs
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.sourcelink.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\bin\Debug\net8.0\CM19OOP_Matematik.exe
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\bin\Debug\net8.0\CM19OOP_Matematik.deps.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\bin\Debug\net8.0\CM19OOP_Matematik.runtimeconfig.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\bin\Debug\net8.0\CM19OOP_Matematik.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\bin\Debug\net8.0\CM19OOP_Matematik.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\refint\CM19OOP_Matematik.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\CM19OOP_Matematik.genruntimeconfig.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Matematik\CM19OOP_Matematik\obj\Debug\net8.0\ref\CM19OOP_Matematik.dll

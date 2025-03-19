@@ -1,0 +1,15 @@
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\bin\Debug\net8.0\CM19OOP_Composition.exe
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\bin\Debug\net8.0\CM19OOP_Composition.deps.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\bin\Debug\net8.0\CM19OOP_Composition.runtimeconfig.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\bin\Debug\net8.0\CM19OOP_Composition.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\bin\Debug\net8.0\CM19OOP_Composition.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.AssemblyInfoInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.AssemblyInfo.cs
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.csproj.CoreCompileInputs.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.sourcelink.json
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\refint\CM19OOP_Composition.dll
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.pdb
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\CM19OOP_Composition.genruntimeconfig.cache
+C:\Users\Victus Emre\Documents\acunmedyaOdev\acunmedyaOdevler\CM19OOP_Composition\CM19OOP_Composition\obj\Debug\net8.0\ref\CM19OOP_Composition.dll
