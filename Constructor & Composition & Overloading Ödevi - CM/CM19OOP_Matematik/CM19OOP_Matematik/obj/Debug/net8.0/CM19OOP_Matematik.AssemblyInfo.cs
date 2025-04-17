@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CM19OOP_Matematik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2ed6e99808cff07304851299a348d9de2630b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+588b319df660d772b77af0a0ac417e11843d3ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CM19OOP_Matematik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CM19OOP_Matematik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

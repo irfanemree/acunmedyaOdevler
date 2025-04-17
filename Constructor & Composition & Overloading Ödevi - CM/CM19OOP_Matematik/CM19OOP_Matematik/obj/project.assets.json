@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\CM19OOP_Matematik.csproj",
+      "projectUniqueName": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor & Composition & Overloading Ödevi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\CM19OOP_Matematik.csproj",
       "projectName": "CM19OOP_Matematik",
-      "projectPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\CM19OOP_Matematik.csproj",
+      "projectPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor & Composition & Overloading Ödevi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\CM19OOP_Matematik.csproj",
       "packagesPath": "C:\\Users\\Victus Emre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\obj\\",
+      "outputPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor & Composition & Overloading Ödevi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\",
+  "WorkspaceRootPath": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor \u0026 Composition \u0026 Overloading \u00D6devi - CM\\CM19OOP_Matematik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_matematik\\cm19oop_matematik\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\constructor \u0026 composition \u0026 overloading \u00F6devi - cm\\cm19oop_matematik\\cm19oop_matematik\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|solutionrelative:cm19oop_matematik\\matematik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\cm19oop_matematik\\cm19oop_matematik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|c:\\users\\victus emre\\documents\\acunmedyaodev\\acunmedyaodevler\\constructor \u0026 composition \u0026 overloading \u00F6devi - cm\\cm19oop_matematik\\cm19oop_matematik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C063E5B1-517B-4BD5-851D-7EA664E96375}|CM19OOP_Matematik\\CM19OOP_Matematik.csproj|solutionrelative:cm19oop_matematik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Matematik.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\Matematik.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor \u0026 Composition \u0026 Overloading \u00D6devi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\Matematik.cs",
               "RelativeDocumentMoniker": "CM19OOP_Matematik\\Matematik.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\Matematik.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor \u0026 Composition \u0026 Overloading \u00D6devi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\Matematik.cs",
               "RelativeToolTip": "CM19OOP_Matematik\\Matematik.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T14:02:26.15Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor \u0026 Composition \u0026 Overloading \u00D6devi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\Program.cs",
               "RelativeDocumentMoniker": "CM19OOP_Matematik\\Program.cs",
-              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\CM19OOP_Matematik\\CM19OOP_Matematik\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus Emre\\Documents\\acunmedyaOdev\\acunmedyaOdevler\\Constructor \u0026 Composition \u0026 Overloading \u00D6devi - CM\\CM19OOP_Matematik\\CM19OOP_Matematik\\Program.cs",
               "RelativeToolTip": "CM19OOP_Matematik\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:01:56.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T14:01:56.088Z"
             }
           ]
         }
